@@ -1,5 +1,5 @@
-color= "\e[31m"
-no_color= "\e[0m"
+color="\e[31m"
+no_color="\e[0m"
 
 echo -e "$color Installing nginx $no_color"
 
